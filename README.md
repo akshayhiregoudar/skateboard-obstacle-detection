@@ -13,7 +13,7 @@ To run the code, clone or download the master branch, and run the **[kalman_filt
 ## Introduction 
 
 The purpose of the Skateboard Force Estimation project is to implement a variety of sensors along with Kalman Filtering in order to determine the force enacted on a skateboard as it rides over a bump. The current version of this project allows for an estimation of the distance to a bump using ultrasonic sensors, as well as velocity estimations using GPS and accelerometer data from an android phone. The experiemntal setup is as shown below.
-[Setup](https://github.com/akshayhiregoudar/skateboard-obstacle-detection/master/skateboard_setup.jpg)
+[Setup](https://github.com/akshayhiregoudar/skateboard-obstacle-detection/blob/master/skateboard_setup.jpg)
 
 
 ## Program Guide 
